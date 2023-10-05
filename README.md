@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScrpit, HTML, CSS e Python
+- 🌱 I’m currently learning JavaScrpit, HTML, CSS, Python, Java e MySql
 - 😄 Pronouns: Ele/Dele
 
 . Pernambuco, Recife 🌎
