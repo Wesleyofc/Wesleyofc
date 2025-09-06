@@ -1,19 +1,28 @@
-### Hi there 👋
-### Biografia:
-Me chamo Wesley Lucas Ferreira Silva Bezerra, tenho 16 anos e sou estutande Instituto Federal de Pernambuco Campus Jaboatão dos Guararapes a qual faço o curso de 
-Informática Para Internet, e curso Desenvolvimento de Sistemas na Escola tecnica Estadual Advogado José David Gill Rodrigues.
+# 👋 Olá, eu sou o Wesley!
 
-- 🌱 I’m currently learning JavaScrpit, HTML, CSS, Python, Java e MySql
-- 😄 Pronouns: Ele/Dele
+🎯 **Sobre mim**  
+Sou desenvolvedor web e entusiasta de tecnologia, apaixonado por criar soluções digitais modernas e eficientes. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e tenho experiência prática em **infraestrutura de redes e monitoramento de TI**, além de atuar em projetos de **Front-End e Design**.
 
-. Pernambuco, Recife 🌎
+🚀 **O que eu faço**  
+- Desenvolvimento de **Landing Pages modernas e responsivas**  
+- Criação de **interfaces com foco em experiência do usuário (UX/UI)**  
+- **SEO e otimização** de sites para melhorar presença online  
+- **Monitoramento de Redes e Segurança**, utilizando ferramentas como **Zabbix, Grafana e Wazuh**  
+- Criação de **dashboards personalizados** para análise de métricas e incidentes  
 
-## Tecnologias Que uso no Dia a Dia 💻
+💻 **Tecnologias que domino**  
+- **Desenvolvimento Web:** HTML, CSS, JavaScript  
+- **Frameworks & UI:** TailwindCSS, Bootstrap  
+- **Design:** Figma, Canva, Photoshop  
+- **Monitoramento & Redes:** Zabbix, Grafana, Wazuh, Windows Server  
+- **Controle de Versão:** Git & GitHub  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
   
+
+📫 **Como me encontrar**  
+- LinkedIn: [linkedin.com/in/wesleylucas](https://linkedin.com/in/wesleylucas)  
+- E-mail: wesleylucasoficial@gmail.com
+
+---
+
+⭐ Se gostou do meu perfil, acompanhe meus projetos aqui no GitHub!
